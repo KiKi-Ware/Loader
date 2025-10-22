@@ -1,3 +1,13 @@
+return {
+    StatusEmojis = {
+        Undetected = "🟢",
+        Detected   = "🔴",
+        Unknown    = "🟡"
+    },
+    CurrentStatus = "Undetected",
+    Message = "Everything working fine"
+}
+
 InfoGroup2:AddDivider()
 InfoGroup2:AddLabel('NO REPORTS YET', true)
 InfoGroup2:AddDivider()
