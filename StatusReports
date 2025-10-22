@@ -1,2 +1,3 @@
 InfoGroup2:AddDivider()
-InfoGroup2:AddLabel('NO REPORTS YET', true)
+InfoGroup2:AddLabel('🟢 This script is not detected!', true)
+InfoGroup2:AddLabel('⚠️ Do not use it on your Main Account!', true)
