@@ -1,3 +1,4 @@
 InfoGroup2:AddDivider()
-InfoGroup2:AddLabel('Test report', true)
+InfoGroup2:AddLabel('Test report111111', true)
 InfoGroup2:AddLabel('Another report line', true)
+InfoGroup2:AddDivider()
