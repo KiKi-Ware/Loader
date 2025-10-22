@@ -1,4 +1,5 @@
 InfoGroup2:AddDivider()
-InfoGroup2:AddLabel('Test report111111', true)
-InfoGroup2:AddLabel('Another report line', true)
+InfoGroup2:AddLabel('NO REPORTS YET', true)
 InfoGroup2:AddDivider()
+InfoGroup2:AddLabel('CURRENT STATUS', true)
+InfoGroup2:AddLabel('🟢 UNDETECTED', true)
