@@ -10,6 +10,3 @@ return {
 
 InfoGroup2:AddDivider()
 InfoGroup2:AddLabel('NO REPORTS YET', true)
-InfoGroup2:AddDivider()
-InfoGroup2:AddLabel('CURRENT STATUS', true)
-InfoGroup2:AddLabel('🟢 UNDETECTED', true)
